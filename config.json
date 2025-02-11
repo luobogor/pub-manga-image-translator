@@ -1,0 +1,16 @@
+{
+  "filter_text": null,
+  "inpainter": {
+    "inpainter": "lama_large"
+  },
+  "detector": {
+    "detection_size": 2048
+  },
+  "ocr": {
+    "ocr": "48px_ctc"
+  },
+   "translator": {
+    "translator": "deepseek",
+    "target_lang": "CHS"
+  }
+}
